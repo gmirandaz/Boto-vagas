@@ -1,4 +1,5 @@
 # Boto Vagas
+App ao vivo:https://boto-global-job-scout.lovable.app/
 
 Coleta diária de vagas de emprego, organizada em banco de dados e exibida em um app web.
 
